@@ -15,7 +15,7 @@ function Footer() {
                                   <a className="hovericon" href="https://www.linkedin.com/in/bernie-ip/">
                                       <i className="fab fa-linkedin-in fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
                                   </a>
-                                  <a className="hovericon" href="images/resume.pdf" >
+                                  <a className="hovericon" href={require("../components/images/testresume.pdf")} >
                                       <i className="far fa-file fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
                                   </a>
                               </div>
