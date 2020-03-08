@@ -13,5 +13,5 @@ The application can be accessed at the following site: https://bernieip.github.i
 2. CSS
 3. Bootstrap
 
-![Image description](/images/screenshot.png)
+![Image description](/public/screenshot.png)
 
