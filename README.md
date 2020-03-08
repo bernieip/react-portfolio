@@ -5,7 +5,7 @@ This is a portfolio of my projects and assignments at the University of Toronto 
 
 ## How to use
 
-The application can be accessed at the following site: https://bernieip.github.io/Bootstrap-Portfolio/
+The application can be accessed at the following site: https://bernieip.github.io/react-portfolio/
 
 ## Tech Stack
 
