@@ -12,6 +12,7 @@ The application can be accessed at the following site: https://bernieip.github.i
 1. HTML
 2. CSS
 3. Bootstrap
+4. React.js
 
 ![Image description](/public/screenshot.png)
 
